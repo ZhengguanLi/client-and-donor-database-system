@@ -26,8 +26,6 @@ The Patient Assistance Network (PAN) is a non-profit organization that provides 
     ![query4](./query4.png)
   - query5
     ![query5](./query5.png)
-  - query6
-    ![query6](./query6.png)
 
 ## Authors
 
